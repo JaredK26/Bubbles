@@ -5,7 +5,6 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/matth/OneDrive/Desktop/Bubbles/wannaseemybubbles/Content/deskview_map.umap",
 				"C:/Users/Jared/Documents/Unreal Projects/wannaseemybubbles/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
 				"C:/Users/Jared/Documents/Unreal Projects/wannaseemybubbles/Content/deskview_map.umap",
 				"C:/Users/Jared/Documents/Unreal Projects/wannaseemybubbles/Content/Main_GMB.uasset",
@@ -13,9 +12,11 @@
 				"C:/Users/Jared/Documents/Unreal Projects/wannaseemybubbles/Content/IMC.uasset",
 				"C:/Users/Jared/Documents/Unreal Projects/wannaseemybubbles/Content/IA_Look.uasset",
 				"C:/Users/Jared/Documents/Unreal Projects/wannaseemybubbles/Content/IA_Interact.uasset",
-				"C:/Users/Jared/Documents/Unreal Projects/wannaseemybubbles/Content/Computer.uasset",
 				"C:/Users/Jared/Documents/Unreal Projects/wannaseemybubbles/Content/Monitor_BP.uasset",
 				"C:/Users/Jared/Documents/Unreal Projects/wannaseemybubbles/Content/TEMP_email.uasset",
+				"C:/Users/Jared/Documents/GitHub/Bubbles/wannaseemybubbles/Content/deskview_map.umap",
+				"C:/Users/matth/OneDrive/Desktop/Bubbles/wannaseemybubbles/Content/deskview_map.umap",
+				"C:/Users/Jared/Documents/Unreal Projects/wannaseemybubbles/Content/Computer.uasset",
 				"C:/Users/Jared/Documents/Unreal Projects/wannaseemybubbles/Content/IA_LookX.uasset",
 				"C:/Users/Jared/Documents/Unreal Projects/wannaseemybubbles/Content/IA_LookY.uasset",
 				"C:/Users/Jared/Documents/Unreal Projects/wannaseemybubbles/Content/Bubbles_Char.uasset"
